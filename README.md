@@ -1,4 +1,7 @@
 # Sentimen Analysis Prediction on IMDB review
+## Project Description 
+This project is to create a LSTM model to classify if a review is positive or negative. By referred to the dataset that consist 50000 highly polar movie reviews by using 35,000 for training and 15,000 for testing. So, predict the number of positive and negative reviews using either classification or deep learning algorithms.
+
  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
@@ -8,8 +11,6 @@
  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
-# Project Description 
-
 
 # How to Install and Run the Project 
 Click on this provided link, you will be redirected to Google Colab, https://colab.research.google.com/drive/1YfsfFq1Uw1im1zKxWRV9zp41pbSWdkpv?usp=sharing, 
@@ -19,19 +20,18 @@ Alternatively, if you wish to run the model on your pc, you may download NLP_tra
 
 For pc user: 
 Software required: Spyder, Python(preferably the latest version) 
+
 Modules needed: Tensorflow, Sklearn 
 
 
 ## Credits
-This is heading level 
+This datasets is provided by [Ankit Kurmi] https://github.com/Ankit152/IMDB-sentiment-analysis 
 
-<h2>You can use HTML</h2>
 
-**I am bold**
+If you find this model analysis is useful, 
+![BuyWarrenACoffee](https://img.shields.io/badge/Buy%20Warren%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-warren-a-coffee&logoColor=black)
 
->The way, the truth, the life. 
->import numpy as np 
->np.expand_dims(wealth, axis=-1)
+
 
 
 ### code block 
