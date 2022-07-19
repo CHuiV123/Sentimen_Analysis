@@ -1,4 +1,5 @@
-# Sentimen_Analysis
+# Sentimen Analysis Prediction on IMDB review
+ 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -7,10 +8,21 @@
  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-# Heading 1 
-Hello, My name is Angela. 
+# Project Description 
 
-## Heading Level 2 
+
+# How to Install and Run the Project 
+Click on this provided link, you will be redirected to Google Colab, https://colab.research.google.com/drive/1YfsfFq1Uw1im1zKxWRV9zp41pbSWdkpv?usp=sharing, 
+you may need to sign in to your Google account to access it. 
+
+Alternatively, if you wish to run the model on your pc, you may download NLP_training.py and deploy.py file from the depository section. The sample datasets and model has already been included in the depository section. 
+
+For pc user: 
+Software required: Spyder, Python(preferably the latest version) 
+Modules needed: Tensorflow, Sklearn 
+
+
+## Credits
 This is heading level 
 
 <h2>You can use HTML</h2>
