@@ -14,6 +14,8 @@ import os
 
 df = pd.read_csv('https://raw.githubusercontent.com/Ankit152/IMDB-sentiment-analysis/master/IMDB-Dataset.csv')
 
+print('Hello World! Hello Warren!')
+
 #%% 2) Data Inspection
 
 df.head()
