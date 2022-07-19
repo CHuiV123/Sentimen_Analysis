@@ -22,7 +22,7 @@ This is heading level
 
 `np.expand_dims(wealth, axis=-1)`
 
-
+![alt text](static/1.png)
 
 
 
